@@ -31,11 +31,7 @@ export default function PortfolioContainer() {
 
   return (
     <div>
-      {/* // Add a comment describing what we are passing as props */}
-      {/* this div contains the navtabs component and the attributes are passed as props */}
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
-      {/* // Add a comment explaining what is happening on the following line */}
-      {/* we're rendering the page? Compiling everything it was passed */}
       {renderPage()}
       <Footer />
     </div>
