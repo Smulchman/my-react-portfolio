@@ -12,7 +12,7 @@ This is a simple build of my portfolio built using React
 
 ## Usage
 
-This app is visible through github pages. You can find the link [here](https://github.com/Smulchman).\
+This app is visible through github pages. You can find the link [here](https://smulchman.github.io/my-react-portfolio/).\
 Go to the following link to view the deployed portfolio.
 
 ## Questions
