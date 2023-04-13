@@ -2,7 +2,7 @@ import React from "react";
 import resumepdf from "../../assets/resume.pdf";
 
 // grabbing the width and height of a user's screen
-const windowWidth = window.innerWidth;
+// const windowWidth = window.innerWidth;
 const windowHeight = window.innerHeight;
 
 export default function Resume() {
