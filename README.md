@@ -12,12 +12,12 @@ This is a simple build of my portfolio built using React
 
 ## Usage
 
-This app is visible through github pages. \
+This app is visible through github pages. You can find the link [here](https://github.com/Smulchman).\
 Go to the following link to view the deployed portfolio.
 
 ## Questions
 
-GitHub: [Smulchman](https://github.com/Smulchman)\
+GitHub: [Smulchman](https://smulchman.github.io/my-react-portfolio/)\
 You can reach me at the following email with any questions regarding this repository:\
 Email: Mulcahy.Samuel@gmail.com
 
